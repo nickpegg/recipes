@@ -1,3 +1,6 @@
+# Taco Meat Seasoning
+
+## Ingredients
 | Qty     | Thing |
 |---------|-------|
 | 1 lb    | ground beef
