@@ -11,5 +11,17 @@
 | to taste | salt and pepper
 
 # Steps
-Brown sausage, remove from pot but keep sausage grease. Melt butter in pot, stir in flour. Add milk and heat while occasionally stirring with a whisk.
-The butter/flour mixture should start combining with the milk and make up the gravy. Add garlic powder, salt, and pepper. Once the mixture is throughly 'gravy-like', add sausage and let cool.
+1. In a medium pot
+  1. On medium heat
+    1. Brown crumbled sausage
+    2. Remove sausage from pot, leave grease
+  3. On low heat
+    1. Melt butter
+    2. Stir in flour
+    3. Add milk
+    4. Add salt, pepper, garlic powder
+  4. On medium-high heat
+    1. Stir occasionally until gravy becomes viscous
+    2. Add sausage
+  3. Remove pot from heat, let gravy cool
+
