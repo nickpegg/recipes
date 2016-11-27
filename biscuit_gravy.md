@@ -15,15 +15,15 @@
   1. On medium heat
     1. Brown crumbled sausage
     2. Remove sausage from pot, leave grease
-  3. On low heat
+  2. On low heat
     1. Melt butter
     2. Stir in flour
     3. Add milk
     4. Add salt, pepper, garlic powder
-  4. On medium-high heat
+  3. On medium-high heat
     1. Stir occasionally until gravy becomes viscous
       * An easy way to tell is to dip your spoon into the gravy. The gravy will stick to the spoon and won't easily run off:
-      ![](img/gravy_spoon.jpg?raw=true)
+      * ![](img/gravy_spoon.jpg?raw=true)
     2. Add sausage
-  3. Remove pot from heat, let gravy cool to thicken
+  4. Remove pot from heat, let gravy cool to thicken
 
