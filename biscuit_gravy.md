@@ -1,14 +1,14 @@
 # Biscuit Gravy
 
 ## Ingredients
-| Qty      | Thing |
-|----------|-------|
-| 1/2 lb   | ground sausage
-| 2 tbsp   | butter
-| 4 tbsp   | flour
-| 3 cups   | milk
-| 1-2 tsp  | garlic powder
-| to taste | salt and pepper
+| Qty             | Thing |
+|-----------------|-------|
+| 1/2 lb          | ground sausage
+| 2 tbsp / 28.5 g | butter
+| 4 tbsp          | flour
+| 3 cups / 750 g  | milk
+| 2 tsp           | garlic powder
+| to taste        | salt and pepper
 
 # Steps
 1. In a medium pot
@@ -22,6 +22,8 @@
     4. Add salt, pepper, garlic powder
   4. On medium-high heat
     1. Stir occasionally until gravy becomes viscous
+      * An easy way to tell is to dip your spoon into the gravy. The gravy will stick to the spoon and won't easily run off:
+      ![](img/gravy_spoon.jpg?raw=true)
     2. Add sausage
-  3. Remove pot from heat, let gravy cool
+  3. Remove pot from heat, let gravy cool to thicken
 
