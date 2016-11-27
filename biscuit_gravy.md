@@ -22,8 +22,10 @@
     4. Add salt, pepper, garlic powder
   3. On medium-high heat
     1. Stir occasionally until gravy becomes viscous
-      * An easy way to tell is to dip your spoon into the gravy. The gravy will stick to the spoon and won't easily run off:
-      * ![](img/gravy_spoon.jpg?raw=true)
+      * An easy way to tell is to dip your spoon into the gravy. The gravy will stick to the spoon and won't easily run off ([see picture below](#viscous-gravy))
     2. Add sausage
   4. Remove pot from heat, let gravy cool to thicken
 
+## Pictures
+### Viscous Gravy
+![](img/gravy_spoon.jpg?raw=true)
