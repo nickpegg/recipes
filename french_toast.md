@@ -4,8 +4,8 @@
 | Qty               | Thing
 |-------------------|-------
 | 1                 | egg
-| 75 g / 1/3 cup    | milk
-| 7.5 g / 1/2 tbsp  | sugar
+| 75 g (1/3 cup)    | milk
+| 7.5 g (1/2 tbsp)  | sugar
 
 ## Steps
 1. Put egg and sugar into a bowl, beat
