@@ -17,6 +17,11 @@ To start off with, you're going to need:
 You'll want about a 16.7 ratio of cabbage to sea salt by weight, so if you have
 500 grams of napa cabbage, you'll need about 30 grams of sea salt.
 
+You can find napa cabbage and gochugaru in more than just Asian grocery stores,
+but I really recommend buying from Asian markets since they'll be the cheapest.
+For example, Koreana Market in Oakland, CA sells a whole head of napa cabbage
+for $1 and a 1 pound (!) bag of gochugaru for $7.
+
 ## Slurry
 | Qty             | Thing
 |-----------------|-------
