@@ -20,9 +20,9 @@ You'll want about a 16.7 ratio of cabbage to sea salt by weight, so if you have
 ## Slurry
 | Qty             | Thing
 |-----------------|-------
-| 150g (2/3 cup)  | water
+| 150g (2/3 cup)  | Water
 | 10g (1 Tbsp)    | Rice flour - gluten free flour works well too, regular flour can be used in a pinch
-| 6g (1/2 Tbsp)   | sugar
+| 6g (1/2 Tbsp)   | Sugar
 
 ## Spice paste
 | Qty           | Thing
@@ -31,8 +31,8 @@ You'll want about a 16.7 ratio of cabbage to sea salt by weight, so if you have
 | 20g (1 Tbsp)  | Fish sauce 
 | 20g (1 Tbsp)  | Minced garlic
 | 30g (1/8 cup) | Diced onion
-| 1 (20g)       | green onion
-| 3g (1/2 tsp)  | grated ginger
+| 1 (20g)       | Green onion
+| 3g (1/2 tsp)  | Grated ginger
 
 # Steps
 For this, you'll need two large mixing bowls
